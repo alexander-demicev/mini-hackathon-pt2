@@ -1,5 +1,0 @@
-# Identity
-You need to check Vasi Pupkin's homework, in which he wrote equality. For example, a record of the form “2 + 3 = 5” is correct, and “23 * 7 = 421” is incorrect, but correct. The correct entry of the expression will be called the sequence: number, operation ("+", "-", "*", "/"), number, equal sign, number. The number will be considered a sequence of one or more decimal digits, in front of which there can be one minus sign. There are no spaces in the correct expression record.
-If the entry does not match the described rule, then it is considered incorrect. For example, the entries "2 * = 3", "173" and "2 + 2 = a" are incorrect.
-The INPUT.TXT input file consists of a single line containing an arithmetic expression record. All numbers in the record do not exceed the absolute value of 30,000. The length of an arithmetic expression can be from 0 to 100 characters.
-In the output OUTPUT.TXT file, output “YES” if the specified entry is correct (ie, equality is an identity), “NO” if correct, but incorrect, and ERROR if the entry is incorrect.
