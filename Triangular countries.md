@@ -1,0 +1,6 @@
+# Triangular countries
+This story took place on the same flat planet. Since time immemorial, the city N has existed on it, which is located at the point xn, yn. In addition, at different times on the same planet there were countries, each of which had the shape of a triangle.
+Now historians have a serious task - according to their data on the triangular countries to determine which countries the city N. could enter. The city could enter the country if it is strictly inside it.
+The first line of the input file contains two numbers: xn and yn are the coordinates of the city N. The second line of the input file contains the number k of triangular countries (1 ≤ k ≤ 1000). The next k lines each describe one triangular country. A triangular country description consists of six integers x1, y1, x2, y2, x3, y3, where (x1, y1), (x2, y2), (x3, y3) are the coordinates of the vertices of this country.
+It is guaranteed that all countries have a non-zero area. All coordinates do not exceed 10,000 in absolute value.
+In the first line of the output file, print the number of countries into which the city N could be entered. In the second line, output the numbers of these countries separated by a space in ascending order. Countries are numbered from one in the order in which they are given in the input file.

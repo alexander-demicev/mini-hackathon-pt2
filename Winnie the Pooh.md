@@ -1,0 +1,4 @@
+# Winnie the Pooh
+Winnie the Pooh is standing on a rectangular field the size of N × M cells. In each cage grows one berry. At the initial moment of time he stands on the left upper cell. He begins to pick berries on the top edge of the field. If he reaches the edge of the field or to an empty cage, he turns 90 degrees to the right and continues to pick berries. But when he reached the next cell, Winnie remembers that Piglet is waiting for him, and he leaves the field.
+The first line of the input file INPUT.TXT contains the dimensions of the field N and M (0 <N, M ≤ 100) the height and width, in the second number Y and X (0 <Y ≤ N, 0 <X ≤ M) –numbers and a cage column, reaching where Winnie the Pooh stops picking berries.
+In the output file OUTPUT.TXT output the number of berries that Pooh will collect.

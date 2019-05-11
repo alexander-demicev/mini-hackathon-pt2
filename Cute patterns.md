@@ -1,0 +1,6 @@
+# Cute patterns
+BrokenTiles company plans to lay out a pattern of black and white tiles in the courtyards of wealthy clients, each of which has a size of 1 × 1 meter. It is known that the courtyards of all wealthy people have the most fashionable rectangle shape M × N meters.
+However, when drawing up a financial plan, the director of this organization had two serious problems: firstly, each new client obviously wants the pattern laid out in his yard different from the patterns of all other clients of this company, and secondly, this pattern should be cute As the study showed, the pattern is nice if there is no square of 2 × 2 meters anywhere in it, completely covered with tiles of the same color. Figure 1 shows examples of various cute patterns, and Figure 2 shows unsympathetic ones.
+To draw up a financial plan, a director needs to know how many clients he can serve before the pretty patterns of this size run out. Help him!
+The first line of the input file INPUT.TXT contains two positive integers, separated by a space - M and N (1 ≤ M N ≤ 30).
+Output in the output file OUTPUT.TXT a single number - the number of different nice patterns that can be laid out in the yard of size M × N. Patterns resulting from each other by shifting, turning, or reflecting are considered different.
