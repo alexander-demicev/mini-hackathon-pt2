@@ -1,5 +1,0 @@
-# Pole vaulting
-In the competition with the pole vault, one interesting phenomenon was noticed: at the next stage of the competition, successful and unsuccessful attempts at jumping alternated: successful, unsuccessful, successful, unsuccessful, etc. (the first was successful). Athletes were allowed only one attempt. The one who overcame the bar passed to the next round (stage), and the one who made an unsuccessful attempt dropped out of the competition. Thus, the athlete with the number 2 was always the first, and the winner with the number 1 was the last.
-It is required to write a program that, by the number of participants and the number of the athlete, calculates how the athlete dropped out of the competition.
-The only line of the input file INPUT.TXT contains two natural numbers: the total number of athletes N and the number of the athlete in the starting list M. The numbers are separated by a space (1 ≤ M, N ≤ 109).
-In the single line of the output OUTPUT.TXT file, you need to output how the athlete M dropped out of the competition. If this is a contest winner, then the number N is output.
