@@ -1,4 +1,0 @@
-# The museum
-The museum registers during the day the time of arrival and departure of each visitor. Thus, for the day, N pairs of values were obtained, where the first value in the pair indicates the time of arrival of the visitor and the second value - the time of his departure. It is required to find the maximum number of visitors who were in the museum at the same time.
-The first line of the input file INPUT.TXT contains a natural number N (N <105) - the number of visitors registered in the museum during the day. Next, there are N lines with information about the time of visitors' visits: each line contains the length of time of the visit in the format “HH: MM HH: MM” (00:00 ≤ HH: MM ≤ 23:59).
-In a single line of the output file OUTPUT.TXT need to output a single integer - the maximum number of visitors simultaneously in the museum.

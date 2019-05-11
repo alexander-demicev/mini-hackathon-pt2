@@ -1,4 +1,0 @@
-# Simple row
-A prime number is a natural number (greater than 1), which is totally divided only by 1 and by itself. For example, the numbers 2, 3, 5, 7, 11, and 23 are prime. Let's call a simple series a sequence of numbers, obtained as follows: prime numbers going in ascending order (starting with 2) are written one after another. The beginning of this series looks like this: 23571113171923 ... It is necessary to find the number that stands in a simple row at the indicated place. Position numbering starts from one.
-The first line of the input file INPUT.TXT contains a positive integer M - the number of tests. The second line contains M numbers separated by spaces, each number is a position number in a simple row (1 ≤ M ≤ 1000, 1 ≤ position number ≤ 10000).
-For each position in the output file OUTPUT.TXT, output a number from the simple row that stands in that position. It is necessary to output M numbers in one line, not separating numbers with spaces.
